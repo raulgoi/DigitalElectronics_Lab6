@@ -19,3 +19,37 @@ e = 0 1100101
 2 = 00110010
 
 ![De2](https://user-images.githubusercontent.com/91128806/139091917-69324857-7e27-4a09-b17a-ca0dd2479c96.jpeg)
+
+
+## Stopwatch
+
+
+## Custom characters
+
+
+     /* Variables ---------------------------------------------------------*/
+     // Custom character definition
+     uint8_t customChar[16] = {
+     
+     	0b11110,
+    	0b10010,
+    	0b10010,
+    	0b11110,
+    	0b11000,
+   	  0b10100,
+   	  0b10010,
+   	  0b00000,
+      0b11111,
+	    0b10001,
+  	  0b10001,
+  	  0b11111,
+  	  0b10001,
+  	  0b10001,
+  	  0b10001,
+  	  0b00000
+      
+       };
+       
+       
+ 
+ ## Picture of the kitchen clock
