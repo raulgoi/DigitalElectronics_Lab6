@@ -14,3 +14,8 @@ Raúl Gómez Ibáñez.
 
 ### Signals of De2
 
+D = 01000100
+e = 0 1100101
+2 = 00110010
+
+![De2](https://user-images.githubusercontent.com/91128806/139091917-69324857-7e27-4a09-b17a-ca0dd2479c96.jpeg)
