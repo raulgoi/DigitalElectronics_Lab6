@@ -1,4 +1,4 @@
-# DigitalElectronics_Lab6
+# DigitalElectronics2_Lab6
 LCD
 
 ## Link to GitHub and name:
