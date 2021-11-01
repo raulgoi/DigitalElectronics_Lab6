@@ -35,7 +35,8 @@ e = 0 1100101
      // Custom character definition
      uint8_t customChar[16] = {
      
-     	  0b11110,
+     	
+	  0b11110,
     	  0b10010,
        	  0b10010,
     	  0b11110,
