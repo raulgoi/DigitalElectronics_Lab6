@@ -18,13 +18,15 @@ D = 01000100
 e = 0 1100101
 2 = 00110010
 
-![De2](https://user-images.githubusercontent.com/91128806/139091917-69324857-7e27-4a09-b17a-ca0dd2479c96.jpeg)
+
+![De2](https://user-images.githubusercontent.com/91128806/139685016-c52734a7-4534-4f56-b98c-69b9d82efda9.jpeg)
 
 
 ## Stopwatch
 
 
-![Flowchart](https://user-images.githubusercontent.com/91128806/139658816-953b46aa-537e-4a38-967c-d911f12e27cd.png)
+![Flowchart](https://user-images.githubusercontent.com/91128806/139685056-55de3e87-b963-4877-bb05-35230b3e0618.png)
+
 
 
 
