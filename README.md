@@ -18,8 +18,9 @@ D = 01000100
 e = 0 1100101
 2 = 00110010
 
+![De2](https://user-images.githubusercontent.com/91128806/139685422-df2a828e-553d-418a-9538-f1fdd9966ed2.jpeg)
 
-![De2](https://user-images.githubusercontent.com/91128806/139685016-c52734a7-4534-4f56-b98c-69b9d82efda9.jpeg)
+
 
 
 ## Stopwatch
