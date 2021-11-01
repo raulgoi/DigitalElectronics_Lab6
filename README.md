@@ -24,6 +24,10 @@ e = 0 1100101
 ## Stopwatch
 
 
+![Flowchart](https://user-images.githubusercontent.com/91128806/139658816-953b46aa-537e-4a38-967c-d911f12e27cd.png)
+
+
+
 ## Custom characters
 
 
