@@ -54,6 +54,18 @@ e = 0 1100101
   	  0b00000
       
        };
+       int main(void)
+    {
+    
+    lcd_init(LCD_DISP_ON);
+    lcd_command(1 << LCD_CGRAM);
+    for (uint8_t i = 0; i < 16; i++)
+    {
+      lcd_data(customChar[i]);
+     }
+   
+     lcd_command(1 << LCD_DDRAM);
+     lcd_putc(0);
        
        
  
