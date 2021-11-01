@@ -70,3 +70,7 @@ e = 0 1100101
        
  
  ## Picture of the kitchen clock
+ 
+ 
+ ![Captura de pantalla LAB 6](https://user-images.githubusercontent.com/91128806/139667509-18f62d60-339d-4b62-b308-1d13c1dcca80.png)
+
